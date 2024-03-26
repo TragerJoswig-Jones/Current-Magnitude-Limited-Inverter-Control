@@ -13,7 +13,7 @@ Grid-interfacing inverters act as the interface between renewable resources and 
 In this paper, we directly focus on a nonlinear system that explicitly accounts for the saturation of the current magnitude. We use a Lyapunov stability approach to determine a stability condition for the system, guaranteeing that a class of controllers would be stabilizing if they satisfy a simple SDP condition. With this condition we fit a linear-feedback controller by sampling the output (offline) model predictive control problems. This learned controller has improved performances with existing designs.
 
 # Language and Dependencies
-This respository contrains code implemented in Python and can be run using Jupyter notebook or Google Colab. The code is also available on Google Drive at [https://drive.google.com/file/d/10tTP14M1J-moej_Oh-ok4DJ4YZJ-fdZO/view?usp=sharing](https://drive.google.com/file/d/10tTP14M1J-moej_Oh-ok4DJ4YZJ-fdZO/view?usp=sharing), which can be easily opened in Google Colab for execution.
+This respository contrains code implemented in Python and can be run using Jupyter notebook or Google Colab. The code is also available on Google Drive at [https://drive.google.com/file/d/1LneERLmkHdRN5rU45h1dr_hdlvp6qKTx/view?usp=sharing](https://drive.google.com/file/d/1LneERLmkHdRN5rU45h1dr_hdlvp6qKTx/view?usp=sharing), which can be easily opened in Google Colab for execution.
 
 
 ## Acknowledgments
