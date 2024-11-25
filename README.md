@@ -24,6 +24,10 @@ The primary developer is Trager Joswig-Jones (@TragerJoswig-Jones).
 
 This source code is available in the hope that it will be useful, but without any warranty and in no event shall the authors or copyright holders be liable for any claim, damages or other liability.
 
+## Notes
+
+The captions of Fig. 3 and Fig. 4 have errors in the $x_0$ and $x^{\*}$ values. The correct values are $x_0 =$ ($0$ A, $0$ A), $x^{\*}$ = ($2.95$ A, $2.95$ A).
+
 # Citing
 
 If you find this repository useful in your work, we kindly request that you cite the following [publication](https://arxiv.org/abs/2310.00473):
