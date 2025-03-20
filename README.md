@@ -30,14 +30,14 @@ The captions of Fig. 3 and Fig. 4 have errors in the $x_0$ and $x^{\*}$ values. 
 
 # Citing
 
-If you find this repository useful in your work, we kindly request that you cite the following [publication](https://arxiv.org/abs/2310.00473):
+If you find this repository useful in your work, we kindly request that you cite the following [publication](https://ieeexplore.ieee.org/abstract/document/10886393/):
 ```
-@misc{joswigjones2023optimal,
-      title={Optimal Control of Grid-Interfacing Inverters With Current Magnitude Limits}, 
-      author={Trager Joswig-Jones and Baosen Zhang},
-      year={2023},
-      eprint={2310.00473},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY}
+@inproceedings{joswig2024optimal,
+        title={Optimal Control of Grid-Interfacing Inverters with Current Magnitude Limits},
+        author={Joswig-Jones, Trager and Zhang, Baosen},
+        booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)},
+        pages={4623--4628},
+        year={2024},
+        organization={IEEE}
 }
 ```
